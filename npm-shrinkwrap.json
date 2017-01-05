@@ -1,0 +1,18 @@
+{
+  "name": "mongomq",
+  "version": "0.3.9",
+  "dependencies": {
+    "mongodb": {
+      "version": "2.2.19",
+      "from": "mongodb@2.2.19",
+      "resolved": "https://registry.npmjs.org/mongodb/-/mongodb-2.2.19.tgz",
+      "dependencies": {
+        "mongodb-core": {
+          "version": "2.1.2",
+          "from": "git+https://github.com/nick-codes/mongodb-core.git#f370d8d44537e27247af3543ec4e1c37508bb6d5",
+          "resolved": "git+https://github.com/nick-codes/mongodb-core.git#f370d8d44537e27247af3543ec4e1c37508bb6d5"
+        }
+      }
+    }
+  }
+}
