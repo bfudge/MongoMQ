@@ -9,8 +9,8 @@
       "dependencies": {
         "mongodb-core": {
           "version": "2.1.2",
-          "from": "git+https://github.com/nick-codes/mongodb-core.git#f370d8d44537e27247af3543ec4e1c37508bb6d5",
-          "resolved": "git+https://github.com/nick-codes/mongodb-core.git#f370d8d44537e27247af3543ec4e1c37508bb6d5"
+          "from": "git+https://github.com/bfudge/mongodb-core.git#7de5b758a780622578744ca9f43b2450c140d6ec",
+          "resolved": "git+https://github.com/bfudge/mongodb-core.git#7de5b758a780622578744ca9f43b2450c140d6ec"
         }
       }
     }
